@@ -2,7 +2,9 @@
 function mahdi{
 echo "mahdi";
 }
-echo "reza";
+echo "
+reza 2
+";
 
 
 ?>
